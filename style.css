@@ -1,0 +1,1173 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: inter;
+}
+.nepal {
+  color: red;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #000;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Inter;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #00ff22;
+}
+
+.hero-section {
+  background-color: white;
+  /* min-height: 100vh; */
+}
+.me {
+  width: 100%;
+  height: 100%;
+}
+
+.hero-content h5 {
+  color: #ff0000;
+  font-size: 18px;
+  line-height: 40px;
+  font-family: Inter;
+}
+.hero-content h1 {
+  font-size: 42px;
+  line-height: 56px;
+  font-family: Inter;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.hero-content p {
+  font-size: 22px;
+  line-height: 40px;
+  font-family: Inter;
+  color: #777777;
+}
+.pt-5 {
+  margin-left: 20px;
+}
+
+.midpage img {
+  margin-right: 76px;
+  margin-left: 100px;
+
+  margin-top: 96px;
+  /* margin: -6px; */
+}
+
+.covid-img {
+  position: absolute;
+  width: 128px;
+  height: 251px;
+  left: 0px;
+  top: 280px;
+}
+
+.corona1 {
+  position: relative;
+}
+.corona1 .covid-rt-img {
+  position: absolute;
+  right: -121px;
+}
+
+.corona {
+  position: relative;
+}
+
+.corona .covid-fullimg {
+  position: absolute;
+  width: 344px;
+  height: 331px;
+  left: 0;
+  top: 0;
+}
+.final {
+  background: linear-gradient(339.88deg, #64cf83 47.7%, #ffffff 47.71%);
+  /* clip-path: polygon(0 61%, 100% 0%, 100% 100%, 0% 100%); */
+}
+
+.symptoms,
+.prevention,
+.final {
+  margin-top: 66px;
+}
+
+.midpage {
+  margin-top: 66px;
+}
+
+.spelling {
+  color: red;
+  font-size: 14px;
+  line-height: 26px;
+  padding: 16px;
+}
+
+.midpage h1 {
+  font-weight: 600;
+  color: #333333;
+}
+
+.row text {
+  padding: 49px;
+}
+
+/* .text line {
+  font-weight: bold;
+} */
+
+.line span {
+  text-decoration: underline;
+  text-underline-position: under;
+  /* text-decoration: green; */
+  text-decoration-color: green;
+}
+.prevention {
+  padding: 22px;
+}
+
+.prevention p {
+  padding: 15px;
+  color: #777777;
+}
+
+.prevention span {
+  text-decoration: underline;
+  text-underline-position: under;
+  text-decoration-color: green;
+}
+
+.prevention h1 {
+  font-weight: 600;
+  color: #333333;
+}
+
+.prevent-col {
+  color: #777777;
+}
+
+.mask-content h3 {
+  padding: 30px;
+}
+
+.symptoms h1 {
+  font-weight: 600;
+  color: #333333;
+}
+
+.symptoms {
+  padding: 2px;
+}
+
+.symptoms p {
+  padding: 16px;
+}
+
+.symptoms symp-para {
+  padding: 94px;
+}
+
+.symptoms span {
+  text-decoration: underline;
+  text-underline-position: under;
+
+  text-decoration-color: green;
+}
+
+.help span {
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-position: under;
+  text-decoration-color: green;
+  align-items: center;
+  padding: 41px;
+}
+/* 
+.img cenr{
+    width: 100px;
+    height:100px;
+} */
+
+.pic {
+  width: 100px;
+  height: 100px;
+}
+
+.help para {
+  padding: 16px;
+}
+
+.help {
+  display: flex;
+  justify-content: center;
+}
+
+.helps {
+  padding: 14px;
+  color: #777777;
+  font-size: 20px;
+  line-height: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-custom {
+  color: #ffffff;
+  background: #44b564;
+  font-size: 24px;
+  line-height: 29px;
+  padding: 5px, px, 10px, 10px;
+  border-radius: 24px;
+  margin-top: 30px;
+}
+.feature {
+  background: #fff;
+
+  padding: 12px 5px;
+  box-shadow: 0px 0px 57px -7px rgba(119, 119, 119, 0.12);
+  border-radius: 24px;
+  color: #777777;
+  height: 241px;
+  left: 166px;
+  top: 755px;
+}
+.feature h1 {
+  color: #484848;
+}
+h1 .number {
+  color: #484848;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.feature-content {
+  text-align: center;
+}
+.feature-content .title {
+  text-align: center;
+  font-size: 20px;
+  line-height: 24px;
+  color: #555555;
+}
+.feature-content .number {
+  font-size: 28px;
+  line-height: 34px;
+  font-weight: bold;
+}
+.feature-content .number-green {
+  color: green;
+}
+
+.feature-content .info {
+  white-space: nowrap;
+  color: #777777;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.feature-content .number-red {
+  color: red;
+}
+
+.ab {
+  background: #ffffff;
+  background-color: white;
+}
+.page-footer {
+  align-items: center;
+}
+
+.spelling {
+  color: #555555;
+  margin-top: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  font-family: Inter;
+  font-style: normal;
+}
+
+.india-footer {
+  text-align: center;
+}
+
+.row second-para {
+  margin-left: 95px;
+  margin-right: 95px;
+}
+
+.india-footer img {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.midpage h1 {
+  color: black;
+  margin: 10px;
+}
+.midpage img {
+  margin: 10px;
+}
+li {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+}
+ul {
+  color: #555555;
+  font-size: 20px;
+  line-height: 32px;
+  list-style-image: url(images/virus.png);
+}
+.prevention {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.prevention p {
+  font-size: 20px;
+  line-height: 32px;
+  text-align: center;
+}
+
+.symptoms {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  line-height: 32px;
+  color: #080101;
+}
+.symptoms p {
+  text-align: center;
+  color: #777777;
+}
+
+.symptoms cenr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.final .row {
+  color: #080101;
+}
+
+.final ending {
+  position: absolute;
+  width: 547px;
+  height: 340.4px;
+  left: 476px;
+  top: 3667px;
+}
+.final img {
+  margin-top: 10px;
+}
+
+select:invalid {
+  color: gray;
+}
+option {
+  color: black;
+}
+
+footer {
+  text-align: left;
+  margin-top: 20px;
+  align-items: center;
+}
+
+form {
+  margin-top: 20px;
+  border: white;
+}
+
+input {
+  padding: 25px;
+  /* padding-right: 29px; */
+  width: 300px;
+  border: 2px solid grey;
+
+  height: 65px;
+  background: #f4f4f4;
+  opacity: 0.5;
+  margin: 6px;
+  border-radius: 12px;
+}
+.input icons {
+  right: -59px;
+  bottom: 43px;
+}
+
+.icon {
+  position: absolute;
+  right: 173px;
+  bottom: 32px;
+  top: 31px;
+}
+
+button {
+  right: -5px;
+}
+
+.last a {
+  text-decoration: none;
+  align-items: flex-end;
+  display: flex;
+  padding: 38px;
+  color: white;
+}
+
+.border {
+  background: #ffffff;
+  box-shadow: 0px 29px 0px -14px #5bc378, 0px 52px 0px -24px #4db76b,
+    0px 0px 50px -1px rgba(82, 82, 82, 0.1);
+  border-radius: 40px;
+  padding: 27px;
+}
+
+.arrow {
+  text-decoration: none;
+  align-items: flex-end;
+  display: flex;
+  padding: 38px;
+}
+
+.placeicons {
+  font-family: fontawesome;
+}
+.backtotop {
+  font-family: fontawesome;
+  background: linear-gradient(339.88deg, #64cf83 47.7%, #ffffff 47.71%);
+  border-color: white;
+  color: rgb(10, 5, 5);
+}
+.sendicon {
+  font-family: fontawesome;
+  background: linear-gradient(339.88deg, #64cf83 47.7%, #ffffff 47.71%);
+  border-color: white;
+  color: rgb(10, 5, 5);
+}
+
+.hero-content i {
+  font-family: fontawesome;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.contact {
+  border: none;
+  padding: 0;
+  background: none;
+  font-size: 26px;
+  font-family: inter;
+  position: relative;
+  left: 37px;
+  align: center;
+  margin: auto;
+}
+
+.clicktosend {
+  padding: 0;
+  background: none;
+  border: none;
+  font-family: inter;
+  align: center;
+  margin: auto;
+  position: relative;
+  left: 24px;
+}
+.half-circle {
+  position: relative;
+  left: 37px;
+}
+.secondhalfcircle {
+  position: relative;
+  left: 30px;
+}
+
+.contacts {
+  padding: 0;
+  display: flex;
+  border: none;
+  background: none;
+  font-size: 26px;
+  font-family: inter;
+  text-align: right;
+  justify-content: right;
+  margin: auto;
+  align-items: flex-end;
+}
+
+.form {
+  display: flex;
+  position: relative;
+  padding: 20px;
+  margin: 0;
+  box-sizing: border-box;
+  align-items: center;
+}
+.icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+textarea {
+  background: #f4f4f4;
+  opacity: 0.5;
+  border-radius: 12px;
+
+  padding: 25px;
+  height: 150px;
+  margin: 6px;
+  left: 797px;
+  width: 319px;
+
+  border: 2px solid grey;
+}
+
+.form:after {
+  content: normal;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  filter: blur(50px);
+}
+
+.contact-us {
+  max-width: 850px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #fff;
+}
+
+.field {
+  width: 50%;
+  padding: 0.5rem 1 rem;
+  outline: none;
+  /* background-color: rgba(230, 230, 230, 0.6); */
+  font-size: 1.1rem;
+  margin-bottom: 22px;
+  /* transition: 0.3s; */
+}
+
+.field:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.field:focus {
+  background-color: #fff;
+  border: 2px solid rgba(30, 85, 250, 0.47);
+}
+
+.backtotop {
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+  border: none;
+  background: none;
+  font-size: 26px;
+  font-family: inter;
+
+  margin: auto;
+}
+
+.iamges {
+  padding: 113px;
+  justify-content: center;
+}
+
+.staysafe {
+  padding: 20px;
+}
+
+/* form text area  */
+/* textarea {
+  width: 380px;
+  height: 150px;
+} */
+
+/* //back to top button  */
+#myBtn {
+  border: none;
+  margin: -55px;
+  margin-right: 87px;
+  color: white;
+  justify-content: right;
+  background: #64cf83;
+  position: absolute;
+}
+
+.form-field {
+  position: relative;
+}
+.input-field {
+  width: 100%;
+}
+.input-icon {
+  position: absolute;
+  top: 27px;
+  right: 168px;
+}
+
+.icon {
+  position: absolute;
+  right: 173px;
+  bottom: 32px;
+  top: 31px;
+}
+
+.underlines {
+  width: 153px;
+  height: 3px;
+  opacity: 1;
+  border: 2px solid green;
+}
+.twounderline {
+  width: 107px;
+  height: 3px;
+  opacity: 1;
+  border: 2px solid green;
+  margin: auto;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.input-numfield {
+  border: 2px solid grey;
+  padding-right: 37px;
+  width: 315px;
+  height: 65px;
+  background: #f4f4f4;
+  opacity: 0.5;
+  margin: 6px;
+  border-radius: 12px;
+}
+
+/* for 992 */
+@media only screen and (max-width: 992px) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .me {
+    padding: 6px;
+    margin: 5px;
+    width: 335px;
+  }
+  navbar-expand-md .navbar-collapse {
+    width: 100%;
+  }
+  .navbar-nav > li {
+    padding-left: 5px;
+    padding-right: 10px;
+  }
+
+  .mask-content {
+    width: 100%;
+  }
+  .col-md-4 {
+    flex: 0 0 auto;
+    width: 33%;
+  }
+
+  .feature-content .info {
+    color: #777777;
+    font-size: 16px;
+    line-height: 22px;
+  }
+  .contact {
+    left: -140px;
+  }
+  .feature-content .title {
+    text-align: center;
+    white-space: nowrap;
+    font-size: 19px;
+  }
+  .feature-content .number {
+    font-size: 21px;
+  }
+  .wed {
+    width: 445px;
+    margin: 0;
+  }
+  .input-icon {
+    position: absolute;
+    top: 27px;
+    right: 69px;
+  }
+  .feature-content .number {
+    font-size: 28px;
+    line-height: 39px;
+    font-weight: bold;
+  }
+  .feature-content .number-green {
+    color: green;
+    font-size: 28px;
+    line-height: 34px;
+    font-weight: bold;
+  }
+
+  .feature-content .number-red {
+    color: red;
+    font-size: 28px;
+    line-height: 34px;
+    font-weight: bold;
+  }
+
+  .corona1 .covid-rt-img {
+    position: absolute;
+    right: -47px;
+  }
+  .corona .covid-fullimg {
+    left: -51px;
+  }
+}
+
+/* for ipad 768 */
+@media only screen and (max-width: 768px) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .corona1 .covid-rt-img {
+    position: absolute;
+    width: 20%;
+    top: 55px;
+    left: 296px;
+  }
+
+  .spelling {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .feature-content .title {
+    text-align: center;
+  }
+  .feature-content .number {
+    font-size: 25px;
+  }
+  .feature-content .number-green {
+    font-size: 25px;
+  }
+  .feature-content .info {
+    font-size: 13px;
+  }
+
+  .wed {
+    width: 350px;
+  }
+
+  .input-icon {
+    right: 0px;
+  }
+  .clicktosend {
+    font-size: 13px;
+  }
+  .covid-fullimg {
+    left: -112px;
+    width: 294px;
+    top: 2520px;
+  }
+  .logos {
+    width: 100px;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+  }
+  .hero-content h1 {
+    font-size: 35px;
+  }
+  .hero-content p {
+    font-size: 14px;
+  }
+  .feature-content .number-red {
+    font-size: 25px;
+  }
+
+  .feature-content .number {
+    font-size: 24px;
+  }
+  .number-green {
+    font-size: 24px;
+  }
+  .number-red {
+    font-size: 24px;
+  }
+  .feature-content .info {
+    font-size: 14px;
+  }
+
+  li {
+    font-size: 15px;
+  }
+  .contact {
+    font-size: 20px;
+  }
+  .prevention p {
+    font-size: 17px;
+  }
+
+  .me {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+  .symptoms p {
+    font-size: 17px;
+  }
+  .helps {
+    font-size: 15px;
+  }
+  h4 {
+    font-size: 18px;
+  }
+
+  .corona .covid-fullimg {
+    left: -112px;
+    top: -120px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .col-sm-12 {
+    width: 100% !important;
+  }
+
+  .col-sm-11 {
+    width: 91.66% !important;
+  }
+
+  .col-sm-10 {
+    width: 83.33% !important;
+  }
+
+  .col-sm-9 {
+    width: 74.99% !important;
+  }
+
+  .col-sm-8 {
+    width: 66.66% !important;
+  }
+
+  .col-sm-7 {
+    width: 58.33% !important;
+  }
+
+  .col-sm-6 {
+    width: 50% !important;
+  }
+
+  .col-sm-5 {
+    width: 41.66% !important;
+  }
+
+  .col-sm-4 {
+    width: 33.33% !important;
+  }
+
+  .col-sm-3 {
+    width: 25% !important;
+  }
+
+  .col-sm-2 {
+    width: 16.66% !important;
+  }
+
+  .col-sm-1 {
+    width: 8.33% !important;
+  }
+
+  .col-sm-0 {
+    width: 0;
+  }
+  
+  .hero-content h1 {
+    font-size: 27px;
+  }
+
+  .hero-content p {
+    font-size: 17px;
+  }
+  .btn-custom {
+    margin-bottom: 20px;
+  }
+  .midpage p {
+    font-size: 17px;
+    color: #777777;
+  }
+  .midpage h1 {
+    font-size: 27px;
+  }
+  li {
+    font-size: 17px;
+    color: #777777;
+  }
+  
+  h4 {
+    font-size: 18px;
+    color: #777777;
+  }
+  p {
+    color: #777777;
+  }
+
+  .ending {
+    width: 100%;
+  }
+  .input-icon {
+    right: 50px;
+  }
+  #myBtn {
+    border: none;
+    margin: -36px;
+    margin-right: 9px;
+  }
+
+  .corona1 .covid-rt-img {
+    position: absolute;
+    width: 20%;
+    top: 55px;
+    left: 324px;
+  }
+  .contact {
+    left: 62px;
+  }
+  .me {
+    width: 100%;
+  }
+  .cenr {
+    width: 100%;
+  }
+  .pic {
+    position: unset;
+    height: unset;
+  }
+  .pic img {
+    position: unset;
+  }
+  .midpage h1 {
+    align-items: center;
+    color: black;
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .underlines {
+    margin: auto;
+  }
+
+  .feature-content .title {
+    text-align: center;
+  }
+  .feature-content {
+    margin: -2px;
+  }
+  .india-footer {
+    white-space: nowrap;
+  }
+  .covid-fullimg {
+    left: -112px;
+    width: 50%;
+    height: 50%;
+    top: 3818px;
+  }
+  .hero-content p {
+    font-size: 15px;
+}
+
+
+@media only screen and (max-width: 376px) {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+  .feature-content .info {
+    font-size: 15px;
+  }
+  .ending {
+    width: 310px;
+  }
+  .half-circle {
+    left: 60px;
+  }
+
+  .wed {
+    height: 417%;
+    width: 385%;
+    position: absolute;
+    right: -136px;
+  }
+  .india-footer {
+    margin: -8px;
+    width: 24px;
+    white-space: nowrap;
+  }
+  .corona .covid-fullimg {
+    left: -112px;
+    top: -198px;
+  }
+  .corona1 .covid-rt-img {
+    position: absolute;
+    width: 18%;
+
+    left: 299px;
+  }
+
+  .input-numfield {
+    width: 285px;
+  }
+  textarea {
+    width: 285px;
+  }
+  .input-icon {
+    right: -20px;
+  }
+  .cenr {
+    width: 330px;
+  }
+  .pic img {
+    width: 100%;
+  }
+  .half-circle {
+    left: 44px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .feature {
+    background: #fff;
+    padding: 1px 0px;
+  }
+  .india-footer {
+    padding: 20px;
+    position: relative;
+    left: 1px;
+  }
+  .prevention p {
+    font-size: 18px;
+  }
+  .feature-content .info {
+    font-size: 15px;
+    white-space: nowrap;
+  }
+  .ending {
+    width: 230px;
+  }
+
+  .input-numfield {
+    width: 256px;
+  }
+  textarea {
+    width: 257px;
+  }
+  .input-icon {
+    right: -20px;
+  }
+  .form-field {
+    right: 20px;
+  }
+  .cenr {
+    width: 100%;
+  }
+  .wed {
+    height: 420%;
+    width: 385%;
+    position: relative;
+    left: -50px;
+  }
+  .india-footer {
+    font-size: 14px;
+  }
+
+  .clicktosend {
+    font-size: 10px;
+    margin: -16px;
+  }
+  .hero-content p {
+    font-size: 20px;
+  }
+  .symptoms p {
+    font-size: 14px;
+  }
+  .last a {
+    padding: 15px;
+  }
+
+  .midpage p {
+    font-size: 17px;
+    line-height: 27px;
+  }
+
+  li {
+    font-size: 17px;
+    line-height: 27px;
+  }
+
+  .corona1 .covid-rt-img {
+    position: absolute;
+    width: 18%;
+    left: 262px;
+  }
+  .prevention p {
+    font-size: 20px;
+  }
+  .btn-custom {
+    margin-bottom: 26px;
+  }
+  .feature-content .info {
+    font-size: 13px;
+  }
+
+  .feature-content .title {
+    font-size: 18px;
+  }
+  .prevention p {
+    font-size: 16px;
+  }
+  .input-icon {
+    right: -39px;
+  }
+  .hero-content p {
+    font-size: 17px;
+    line-height: 27px;
+  }
+}
